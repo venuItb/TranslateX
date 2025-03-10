@@ -113,23 +113,6 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
-## Contributing 🤝
-
-Contributions are welcome! If you'd like to contribute to TranslateX, please follow these steps:
-
-1.⁠ ⁠Fork the repository.
-2.⁠ ⁠Create a new branch for your feature or bug fix.
-3.⁠ ⁠Commit your changes and push to the branch.
-4.⁠ ⁠Submit a pull request.
-
----
-
-## License 📜
-
-This project is licensed under the *MIT License*. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments 🙏
 
 •⁠  ⁠*Google Gemini AI*: For providing the powerful translation API.
