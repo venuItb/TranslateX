@@ -116,13 +116,13 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 ## Screenshots 📸
 
 ### Text Translation
-![Text Translation](screenshots/text_translation.png)
+![Text Translation](Text.jpeg)
 
 ### File Translation
-![File Translation](screenshots/file_translation.png)
+![File Translation](file.jpeg)
 
 ### Voice Translation
-![Voice Translation](screenshots/voice_translation.png)
+![Voice Translation](voice.jpeg)
 
 ---
 
