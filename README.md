@@ -49,7 +49,7 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 1.⁠ ⁠*Clone the Repository*:
    ⁠ bash
-   git clone https://github.com/your-username/TranslateX.git
+   git clone https://github.com/venuItb/TranslateX.git
    cd TranslateX
     ⁠
 
@@ -110,19 +110,6 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 •⁠  ⁠*Add New Features*:
   - Integrate additional APIs or libraries for advanced functionality (e.g., sentiment analysis, cultural context).
-
----
-
-## Screenshots 📸
-
-### Text Translation
-![Text Translation](Text.jpeg)
-
-### File Translation
-![File Translation](file.jpeg)
-
-### Voice Translation
-![Voice Translation](voice.jpeg)
 
 ---
 
