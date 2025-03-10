@@ -75,6 +75,12 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
+## TranslateX Demo Video
+
+https://drive.google.com/file/d/1vICAXBHYN3LI6cXne9o527lRkglDEqnH/view
+
+---
+
 ## Usage Guide 
 
 1.⁠ ⁠*Text Translation*:
