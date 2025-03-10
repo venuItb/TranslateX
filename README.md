@@ -28,7 +28,7 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used 
 
 •⁠  ⁠*Google Gemini AI*: For language detection and translation.
 •⁠  ⁠*Streamlit*: For building the web application.
@@ -39,7 +39,7 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
-## Setup Instructions 🚀
+## Setup Instructions 
 
 ### Prerequisites
 •⁠  ⁠Python 3.8 or higher.
@@ -75,7 +75,7 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
-## Usage Guide 📖
+## Usage Guide 
 
 1.⁠ ⁠*Text Translation*:
    - Select the source and target languages.
@@ -100,7 +100,7 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
-## Customization 🎨
+## Customization 
 
 •⁠  ⁠*Add More Languages*:
   - Update the ⁠ LANGUAGE_FLAGS ⁠ dictionary in the code to include additional languages.
@@ -113,7 +113,7 @@ TransLingua is a cutting-edge web application designed to harness the power of a
 
 ---
 
-## Acknowledgments 🙏
+## Acknowledgments 
 
 •⁠  ⁠*Google Gemini AI*: For providing the powerful translation API.
 •⁠  ⁠*Streamlit*: For making it easy to build and deploy web apps.
